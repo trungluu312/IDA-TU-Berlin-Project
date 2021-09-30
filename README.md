@@ -1,4 +1,4 @@
-# project-1
+# UNIVERSITY PROJECT
 University Project
 
 The goal is to work with a large database including large datasets to create a recall plan for faulty vehicles. 
